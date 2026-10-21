@@ -1,0 +1,3 @@
+{
+  "note": "Best CV model was not Random Forest; default model selected. Use RandomizedSearchCV on a tree model if desired."
+}
